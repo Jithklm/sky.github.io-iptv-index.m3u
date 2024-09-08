@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="OO" status="timeout",1 HARI TV
-https://live.skystream.in/live/haritv/index.m3u8
-#EXTINF:-1 tvg-id="PP" status="timeout",2 HARI TV 2
-https://live.skystream.in/live/rainbowtv/index.m3u8
